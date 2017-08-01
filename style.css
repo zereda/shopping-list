@@ -1,0 +1,42 @@
+h1{
+  font-family:Garamond;
+  color:black;
+  background-color: rgb(249, 201, 255);
+  border:none;
+  border-radius:100px;
+  padding:10px;
+  display: table;
+}
+
+body{
+font-family: Garamond;
+display: table;
+}
+
+
+
+.button {
+  color:black;
+  background: rgba(142, 202, 239, 0.62);
+  border: none;
+  cursor: pointer;
+  padding:10px;
+  border-radius: 100px;
+  width:150px;
+  margin-top:10px;
+
+}
+
+.fa-trash-o {
+  
+ opacity:0.3;
+ transition: 1s opacity;
+ margin-left:40px;
+}
+
+
+
+.fa-trash-o:hover {
+ color: blue;
+ opacity: 1;
+}
